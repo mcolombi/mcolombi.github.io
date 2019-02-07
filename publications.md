@@ -1,11 +1,15 @@
 ---
 layout: page
-title: Group
-subtitle: 
+title: Publications
+subtitle: Latest update: `r format(Sys.time(), '%d %B, %Y')`
 ---
 
-test test
+## 2019
 
-### my history
+bla bla
 
-test test
+## 2018
+
+bla bla
+
+

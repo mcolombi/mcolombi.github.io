@@ -3,7 +3,7 @@ layout: page
 title: Publications
 subtitle: 
 ---
-Latest update  `r format(Sys.time(), '%d %B, %Y')`
+Latest update {{ site.time | date: '%B %d, %Y' }}
 
 ## 2019
 
